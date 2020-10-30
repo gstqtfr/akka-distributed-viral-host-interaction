@@ -15,6 +15,9 @@ import scala.concurrent.duration._
 object WorkExecutor {
 
 
+  // JKK: we need to add our gene sequences here
+
+
 
 
   /**
